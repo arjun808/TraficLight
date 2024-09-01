@@ -1,0 +1,48 @@
+.parent{
+    height:100%,
+    
+
+}
+.box{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.blue{
+    background-color: blue;
+    width: 10%;
+    height: 90px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+.yellow{
+    margin-top: 50px;
+    background-color: yellow;
+    width: 10%;
+    height: 90px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.green{
+    margin-top: 50px;
+    background-color: green;
+    width: 10%;
+    height: 90px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
